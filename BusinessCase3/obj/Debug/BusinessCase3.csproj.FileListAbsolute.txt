@@ -1,0 +1,6 @@
+C:\Users\Sryn\Documents\Visual Studio 2013\Projects\BusinessCase3\BusinessCase3\bin\Debug\BusinessCase3.exe.config
+C:\Users\Sryn\Documents\Visual Studio 2013\Projects\BusinessCase3\BusinessCase3\bin\Debug\BusinessCase3.exe
+C:\Users\Sryn\Documents\Visual Studio 2013\Projects\BusinessCase3\BusinessCase3\bin\Debug\BusinessCase3.pdb
+C:\Users\Sryn\Documents\Visual Studio 2013\Projects\BusinessCase3\BusinessCase3\obj\Debug\BusinessCase3.csprojResolveAssemblyReference.cache
+C:\Users\Sryn\Documents\Visual Studio 2013\Projects\BusinessCase3\BusinessCase3\obj\Debug\BusinessCase3.exe
+C:\Users\Sryn\Documents\Visual Studio 2013\Projects\BusinessCase3\BusinessCase3\obj\Debug\BusinessCase3.pdb
